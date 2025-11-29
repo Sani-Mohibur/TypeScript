@@ -1,0 +1,19 @@
+4 Pillars of OOP: 
+    1.Encapsulation 
+    2.Abstraction
+        Abstraction effectively splits code into two parts:
+        The Idea (Abstract): What the object should do (e.g., "Make Sound").
+        The Implementation (Concrete): How the object actually does it (e.g., "Bark" or "Meow"). 
+    3.Inheritance 
+    4.Polymorphism - having many forms 
+        Definition: The ability of an object to take on multiple forms. 
+        This allows different classes to have methods with the same name but different implementations. 
+
+
+
+Object-Oriented Programming (OOP) in TypeScript is a way to structure your code using classes, objects, and methods. 
+TypeScript adds strong typing on top of JavaScript, allowing you to define properties, 
+access modifiers (private, protected, public), and constructors inside classes. 
+You create a class as a blueprint, and objects are created from that blueprint. 
+With OOP, you can organize code better, reuse logic with inheritance, hide sensitive data with encapsulation, 
+and override methods for flexible behavior through polymorphism.
